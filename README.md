@@ -30,7 +30,7 @@ Exports The Result To A New TXT **If Possible** Located Right Next To The Execut
 ## Note
 The Exported TXT Will Be Overridden With Each Export. You Can Provide The Path With Or Without ["]
 
-## Images
+## Images W.I.P
 
 ### Menu
 ![image](https://user-images.githubusercontent.com/65088572/200796475-bf3a0086-12de-4e1a-9824-b83017b5bcfa.png)
